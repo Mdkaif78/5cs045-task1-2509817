@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Portfolio/dist"
+		},
+		{
+			"path": "../../Portfolio/node_modules"
+		},
+		{
+			"path": "../../Portfolio/public"
+		},
+		{
+			"path": "../../Portfolio/src"
+		}
+	]
+}
